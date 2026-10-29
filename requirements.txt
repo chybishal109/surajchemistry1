@@ -1,0 +1,5 @@
+﻿streamlit
+rdkit==2024.9.6
+plotly
+pandas
+reportlab
